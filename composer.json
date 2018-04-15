@@ -1,0 +1,6 @@
+{
+    "require": {
+        "charlottedunois/yasmin": "^0.4.0",
+        "ext-SimpleXML": "^7.1"
+    }
+}
